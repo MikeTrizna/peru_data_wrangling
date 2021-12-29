@@ -6,7 +6,6 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2018 November	DSC_0005-KANT1.JPG	Moenkhausia	sp. 1	field	Peru	CV2-303
 2018 November	DSC_0003-KANT1.JPG	Bujurquina	moriorum	field	Peru	CV2-301
 2018 November	DSC_0006-CV2-TRAMPA.JPG	Pimelodella	cf. cristata	field	Peru	CV2-495
-2018 November	DSC_0006-CV2-TRAMPA.JPG	Pimelodella	cf. cristata	field	Peru	CV2-495
 2018 November	DSC_0006-KANT1.JPG	Apistogramma	bitaeniata	field	Peru	CV2-304
 2018 November	DSC_0007-KANT1.JPG	Apistogramma	aff. cruzi	field	Peru	CV2-305
 2018 November	DSC_0008-KANT1.JPG	Apistogramma	bitaeniata	field	Peru	CV2-306
@@ -192,7 +191,6 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2018 November	DSC_0257-MAP1.JPG	Steindachnerina	sp. 1	field	Peru	CV1-145
 2018 November	DSC_0257-KANT6.JPG	Hemigrammus	sp. 2	field	Peru	CV2-420
 2018 November	DSC_0257-MAP2.JPG	Ancistrus	sp. 1	field	Peru	CV1-271
-2018 November	DSC_0257-MAP2.JPG	Ancistrus	sp. 1	field	Peru	CV1-271
 2018 November	DSC_0258-CV1-TRAMPA.JPG	Hoplias 	malabaricus	field	Peru	CV1-286
 2018 November	DSC_0258-MAP1.JPG	Steindachnerina	sp. 1	field	Peru	CV1-146
 2018 November	DSC_0258-MAP2.JPG	Corydoras	atropersonatus	field	Peru	CV1-272
@@ -214,9 +212,7 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2018 November	DSC_0270-MAP1.JPG	Knodus	caquetae	field	Peru	CV1-157
 2018 November	DSC_0271-MAP1.JPG	Pimelodella	cf. hasemani	field	Peru	CV1-158
 2018 November	DSC_0271-MAP2.JPG	Hypoptopoma	sp. 1	field	Peru	CV1-279
-2018 November	DSC_0271-MAP2.JPG	Hypoptopoma	sp. 1	field	Peru	CV1-279
 2018 November	DSC_0272-CHT6.JPG	Pyrrhulina	cf. brevis	field	Peru	CV1-041
-2018 November	DSC_0273-MAP2.JPG	Otocinclus	vittatus	field	Peru	CV1-280
 2018 November	DSC_0273-MAP2.JPG	Otocinclus	vittatus	field	Peru	CV1-280
 2018 November	DSC_0272-MAP1.JPG	Knodus	caquetae	field	Peru	CV1-159
 2018 November	DSC_0274-MAP1.JPG	Imparfinis	cf. stictonotus	field	Peru	CV1-161
@@ -228,39 +224,30 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2018 November	DSC_0277-CHT6.JPG	Moenkhausia	sp. 1	field	Peru	CV1-046
 2018 November	DSC_0277-MAP1.JPG	Imparfinis	cf. stictonotus	field	Peru	CV1-164
 2018 November	DSC_0277-MAP2.JPG	Hypostomus	sp. 2	field	Peru	CV1-283
-2018 November	DSC_0277-MAP2.JPG	Hypostomus	sp. 2	field	Peru	CV1-283
 2018 November	DSC_0278-CHT6.JPG	Pyrrhulina	cf. brevis	field	Peru	CV1-047
 2018 November	DSC_0278-CV2-TRAMPA.JPG	Mylossoma	albiscopum	field	Peru	CV2-501
 2018 November	DSC_0278-MAP1.JPG	Imparfinis	cf. stictonotus	field	Peru	CV1-165
 2018 November	DSC_0279-CHT6.JPG	Brachyhypopomus	beebei	field	Peru	CV1-048
 2018 November	DSC_0279-MAP1.JPG	Imparfinis	cf. stictonotus	field	Peru	CV1-166
 2018 November	DSC_0281-MAP1.JPG	Otocinclus	vittatus	field	Peru	CV1-167
-2018 November	DSC_0281-MAP1.JPG	Otocinclus	vittatus	field	Peru	CV1-167
 2018 November	DSC_0285-CV1-TRAMPA.JPG	Boulengerella 	cuvieri	field	Peru	CV1-292
 2018 November	DSC_0285-MAP1.JPG	Otocinclus	vittatus	field	Peru	CV1-170
-2018 November	DSC_0285-MAP1.JPG	Otocinclus	vittatus	field	Peru	CV1-170
 2018 November	DSC_0288-CV1-TRAMPA.JPG	Lasiancistrus	schomburgkii	field	Peru	CV1-293
-2018 November	DSC_0288-CV1-TRAMPA.JPG	Lasiancistrus	schomburgkii	field	Peru	CV1-293
-2018 November	DSC_0290-CV1-TRAMPA.JPG	Lasiancistrus	schomburgkii	field	Peru	CV1-294
 2018 November	DSC_0290-CV1-TRAMPA.JPG	Lasiancistrus	schomburgkii	field	Peru	CV1-294
 2018 November	DSC_0290-KATP3.JPG	Steindachnerina	sp. 1	field	Peru	CV2-460
 2018 November	DSC_0290-MAP1.JPG	Corydoras	atropersonatus	field	Peru	CV1-173
 2018 November	DSC_0291-KATP3.JPG	Steindachnerina	sp. 1	field	Peru	CV2-461
 2018 November	DSC_0291-MAP1.JPG	Limatulichthys	griseus	field	Peru	CV1-174
 2018 November	DSC_0292-CV1-TRAMPA.JPG	Hypostomus	sp. 2	field	Peru	CV1-297
-2018 November	DSC_0292-CV1-TRAMPA.JPG	Hypostomus	sp. 2	field	Peru	CV1-297
 2018 November	DSC_0292-KATP3.JPG	Steindachnerina	sp. 1	field	Peru	CV2-462
 2018 November	DSC_0293-MAP1.JPG	Bryconops	caudomaculatus	field	Peru	CV1-176
 2018 November	DSC_0292-MAP1.JPG	Loricariichthys	sp. 1	field	Peru	CV1-175
 2018 November	DSC_0294-CV1-TRAMPA.JPG	Aphanotorulus	cf. emarginatus	field	Peru	CV1-295
-2018 November	DSC_0294-CV1-TRAMPA.JPG	Aphanotorulus	cf. emarginatus	field	Peru	CV1-295
 2018 November	DSC_0294-KATP3.JPG	Moenkhausia	oligolepis	field	Peru	CV2-464
 2018 November	DSC_0295-MAP1.JPG	Phenacogaster	napoatilis	field	Peru	CV1-178
 2018 November	DSC_0296-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-465
-2018 November	DSC_0296-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-465
 2018 November	DSC_0296-MAP1.JPG	Moenkhausia	collettii	field	Peru	CV1-179
 2018 November	DSC_0297-MAP1.JPG	Creagrutus	beni	field	Peru	CV1-180
-2018 November	DSC_0298-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-466
 2018 November	DSC_0298-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-466
 2018 November	DSC_0298-MAP1.JPG	Creagrutus	beni	field	Peru	CV1-181
 2018 November	DSC_0299-KATP3.JPG	Bujurquina	huallagae	field	Peru	CV2-467
@@ -277,16 +264,13 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2018 November	DSC_0305-MAP1.JPG	Moenkhausia	collettii	field	Peru	CV1-188
 2018 November	DSC_0306-MAP1.JPG	Knodus	caquetae	field	Peru	CV1-189
 2018 November	DSC_0307-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-474
-2018 November	DSC_0307-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-474
 2018 November	DSC_0307-MAP1.JPG	Phenacogaster	napoatilis	field	Peru	CV1-190
-2018 November	DSC_0309-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-475
 2018 November	DSC_0309-KATP3.JPG	Sturisoma	nigrirostrum	field	Peru	CV2-475
 2018 November	DSC_0309-MAP1.JPG	Creagrutus	beni	field	Peru	CV1-192
 2018 November	DSC_0310-KATP3.JPG	Limatulichthys	griseus	field	Peru	CV2-476
 2018 November	DSC_0311-KATP3.JPG	Bujurquina	huallagae	field	Peru	CV2-477
 2018 November	DSC_0312-KATP3.JPG	Crenicichla	reticulata	field	Peru	CV2-478
 2018 November	DSC_0312-MAP1.JPG	Apionichthys	sp. 1	field	Peru	CV1-193
-2018 November	DSC_0313-HET2.JPG	Electrophorus	electricus	field	Peru	CV1-059
 2018 November	DSC_0313-HET2.JPG	Electrophorus	electricus	field	Peru	CV1-059
 2018 November	DSC_0314-KATP3.JPG	Ochmacanthus 	reinhardtii 	field	Peru	CV2-480
 2018 November	DSC_0314-MAP1.JPG	Knodus	caquetae	field	Peru	CV1-195
@@ -337,11 +321,9 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2018 November	DSC_0365-MAP1.JPG	Apistogramma	aff. cruzi	field	Peru	CV1-244
 2018 November	DSC_0366-MAP1.JPG	Limatulichthys	griseus	field	Peru	CV1-245
 2018 November	DSC_0370-MAP1.JPG	Pekoltia	sp. 1	field	Peru	CV1-248
-2018 November	DSC_0370-MAP1.JPG	Pekoltia	sp. 1	field	Peru	CV1-248
 2018 November	DSC_0441-HET1.JPG	Bujurquina	moriorum	field	Peru	CV1-050
 2018 November	DSC_0442-HET1.JPG	Corydoras	aeneus	field	Peru	CV1-051
 2018 November	DSC_0444-HET1.JPG	Moenkhausia	comma	field	Peru	CV1-053
-2018 November	DSC_0446-HET1.JPG	Tatia	dunni	field	Peru	CV1-054
 2018 November	DSC_0446-HET1.JPG	Tatia	dunni	field	Peru	CV1-054
 2018 November	DSC_0447-HET1.JPG	Charax	tectifer	field	Peru	CV1-055
 2018 November	DSC_0448-HET2.JPG	Bujurquina	moriorum	field	Peru	CV1-056
@@ -370,7 +352,6 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2018 November	DSC_0492-HET5.JPG	Bujurquina	moriorum	field	Peru	CV1-090
 2018 November	DSC_0494-HET5.JPG	Moenkhausia	comma	field	Peru	CV1-092
 2018 November	DSC_0495-HET5.JPG	Moenkhausia	comma	field	Peru	CV1-093
-2018 November	DSC_0497-HET5.JPG	Tatia	dunni	field	Peru	CV1-094
 2018 November	DSC_0497-HET5.JPG	Tatia	dunni	field	Peru	CV1-094
 2018 November	DSC_0498-HET5.JPG	Trachelyopterus	galeatus	field	Peru	CV1-095
 2018 November	DSC_0500-HET5.JPG	Apistogramma	aff. cruzi	field	Peru	CV1-097
@@ -980,13 +961,9 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2019 November	DSC_0799.JPG	Hoplias	malabaricus	field	Peru	KACV2-04
 2019 November	DSC_0798.JPG	Hoplias	malabaricus	field	Peru	KACV2-04
 2019 November	DSC_0801.JPG	Hoplias	malabaricus	field	Peru	KACV2-05
-2019 November	DSC_0801.JPG	Steindachnerina	guentheri	field	Peru	KACV2-07
 2019 November	DSC_0800.JPG	Hoplias	malabaricus	field	Peru	KACV2-05
-2019 November	DSC_0800.JPG	Steindachnerina	guentheri	field	Peru	KACV2-07
 2019 November	DSC_0802.JPG	Hoplias	malabaricus	field	Peru	KACV2-06
-2019 November	DSC_0802.JPG	Steindachnerina	guentheri	field	Peru	KACV2-07
 2019 November	DSC_0803.JPG	Hoplias	malabaricus	field	Peru	KACV2-06
-2019 November	DSC_0803.JPG	Steindachnerina	guentheri	field	Peru	KACV2-07
 2019 November	DSC_0860.JPG	Moenkhausia	sp. 1	field	Peru	T1-CV2QKANT-01
 2019 November	DSC_0861.JPG	Moenkhausia	sp. 1	field	Peru	T1-CV2QKANT-01
 2019 November	DSC_0863.JPG	Pyrrhulina	cf. eleanorae	field	Peru	T1-CV2QKANT-02
@@ -1436,11 +1413,7 @@ folder	file_name	genus	species	data_source	country	specimen_id
 2019 November	DSC_1311.JPG	Microschemobrycon	sp. 1	field	Peru	P3-CV2QKATI-38
 2019 November	DSC_1312.JPG	Microschemobrycon	sp. 1	field	Peru	P3-CV2QKATI-38
 2019 November	DSC_1313.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-19
-2019 November	DSC_1313.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-20
 2019 November	DSC_1315.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-19
-2019 November	DSC_1315.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-20
 2019 November	DSC_1314.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-19
-2019 November	DSC_1314.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-20
 2019 November	DSC_1317.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-20
 2019 November	DSC_1316.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-19
-2019 November	DSC_1316.JPG	Pterygoplichthys	sp. 1	field	Peru	KACV2-20
